@@ -277,16 +277,16 @@ header .text {
 }
 
 .projects .first {
-    background-image: url('/images/Tint.png');
+    background-image: url('./images/Tint.png');
 }
 
 .projects .second {
-    background-image: url('/images/Tint2.png');
+    background-image: url('./images/Tint2.png');
     opacity: 0.8;
 }
 
 .projects .third {
-    background-image: url('/images/Tint3.png');
+    background-image: url('./images/Tint3.png');
     opacity: 0.8;
 }
 
